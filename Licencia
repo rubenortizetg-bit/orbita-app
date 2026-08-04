@@ -1,0 +1,20 @@
+
+---
+
+## **Paso 3: Subir todo a GitHub**
+
+```bash
+# 1. Agregar todos los archivos
+git add .
+
+# 2. Crear el commit
+git commit -m "feat: implementación completa de la app ÓRBITA
+
+- ✅ Componentes de evaluación y dashboard
+- ✅ Gráfico de radar interactivo
+- ✅ Sistema de priorización automática
+- ✅ Integración con Supabase
+- ✅ Diseño responsive con Tailwind"
+
+# 3. Subir a GitHub
+git push -u origin main
