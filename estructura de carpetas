@@ -1,0 +1,27 @@
+📁 orbita-app/
+├── 📁 public/
+│   └── vite.svg
+├── 📁 src/
+│   ├── 📁 components/
+│   │   ├── 📁 Common/
+│   │   ├── 📁 Dashboard/
+│   │   └── 📁 Evaluation/
+│   ├── 📁 data/
+│   ├── 📁 hooks/
+│   ├── 📁 services/
+│   ├── 📁 types/
+│   ├── 📁 utils/
+│   ├── 📄 App.css
+│   ├── 📄 App.tsx
+│   ├── 📄 index.css
+│   ├── 📄 main.tsx
+│   └── 📄 vite-env.d.ts
+├── 📄 .env.example
+├── 📄 .gitignore
+├── 📄 index.html
+├── 📄 package.json
+├── 📄 README.md
+├── 📄 tsconfig.json
+├── 📄 tsconfig.node.json
+├── 📄 vercel.json
+└── 📄 vite.config.ts
